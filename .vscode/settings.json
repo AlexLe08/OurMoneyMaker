@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"E:/Game Projects/Unreal Projects/OurMoneyMaker/.vscode": true,
+		"E:/Game Projects/Unreal Projects/OurMoneyMaker/Content": true,
+		"E:/Game Projects/Unreal Projects/OurMoneyMaker/Intermediate": true
+	}
+}
